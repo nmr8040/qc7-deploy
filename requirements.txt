@@ -1,0 +1,13 @@
+streamlit==1.28.0
+pandas==2.0.0
+numpy==1.24.3
+plotly==5.15.0
+matplotlib==3.7.2
+seaborn==0.12.2
+scipy==1.11.3
+openpyxl==3.1.2
+xlrd==2.0.1
+python-pptx==0.6.23
+reportlab==4.0.4
+Pillow==10.0.0
+kaleido==0.2.1
